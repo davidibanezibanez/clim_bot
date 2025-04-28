@@ -42,10 +42,10 @@ CREACIÓN ARCHIVO .env
 
 1) En la raíz de nuestro proyecto creamos el archivo .env
 
-2) Completamos el contenido del archivo con los tokens brindados por el Scrum Master del proyecto
+2) Completamos el contenido del archivo con los tokens brindados por el Scrum Master del proyecto (d.ibanez03@ufromail.cl)
 
 CREACIÓN ARCHIVO .env.test
 
 1) En la raíz de nuestro proyecto creamos el archivo .env.test
 
-2) Completamos el contenido del archivo con los tokens brindados por el Scrum Master del proyecto
+2) Completamos el contenido del archivo con los tokens brindados por el Scrum Master del proyecto (d.ibanez03@ufromail.cl)
