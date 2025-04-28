@@ -1,3 +1,5 @@
+CLIMBOT en Discord: https://discord.com/oauth2/authorize?client_id=1358881010351083682
+
 INICIAR BOT (Seguir las instrucción detalladas en "IMPORTANTE" antes de iniciar por primera vez)
 
 1) Activar entorno virtual:
